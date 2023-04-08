@@ -1,0 +1,5 @@
+1.  no bind params during insert
+2.  No Catch of error during database connection
+3.  repeat of code
+4.  no MVC Architecture
+5.  Creation of a singleton class for easy instanciation
